@@ -1,0 +1,26 @@
+# ==========================
+# Backend
+# ==========================
+backend/comandas_api/venv/
+backend/comandas_api/logs/
+backend/comandas_api/__pycache__/
+backend/comandas_api/*.db
+backend/comandas_api/.env
+backend/comandas_api/cert/
+
+# ==========================
+# Frontend
+# ==========================
+frontend/comandas_app/node_modules/
+frontend/comandas_app/dist/
+frontend/comandas_app/.env
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# Python
+# ==========================
+*.pyc
